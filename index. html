@@ -1,0 +1,38 @@
+<html>
+<title>Продаю телефон</title>
+<body style="background-color:lightblue">
+    <header> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvW7cTseEIFQ3skCtI_Q0j1JbY3orN5qhNc4vSEaaAsA&s"wight="50px"height="50px">
+        <a href="#city">City</a>
+        <a href="#Samsung">Samsung</a>
+    </header>
+    <main>
+          <h1 style="font-size:50px">Про телефон</h1>
+          <p style="font-size:20px">Самсунг</p>
+          <h2 style="font-size:40px">Ціна</h2>
+          <p style="font-size:20px">3800 грн</p>
+          <h3 id="city" style="font-size:40px">Місто</h3>
+          <p style="font-size:20px">м.Житомир</p>
+          <table style="border:1px solid blue;color:black;font-size:20px">
+              <tr style="border:1px solid blue">
+                  <td style="border:1px solid blue">Стан</td>
+                  <td style="border:1px solid blue">Чудовий</td>
+                  
+              </tr>
+                  <img src="https://www.myphone.kg/files/media/8/8404.jpg"wight="40px" height="50px">
+              <tr style="border:1px solid blue">
+                  <td style="border:1px solid blue">країна</td>
+                  <td style="border:1px solid blue">США</td>
+                  
+              </tr>
+          </table>
+          <main>
+          <h1 style="font-size:50px">Все про продавця</h1>
+          <p style="font-size:20px">Номер телефону:+380686110764</p>
+          <p style="font-size:20px">Ім'я:Буткевич Ілля</p>
+          <img src="https://www.forumdaily.com/wp-content/uploads/2022/10/iStock-1383831579.jpg" wight="200px" height="200px">
+          <p style="font-size:32px">Купи та користуйся</p>
+        
+    </main> 
+    <footer></footer>
+</body>
+</html>
